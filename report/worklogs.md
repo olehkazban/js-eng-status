@@ -59,3 +59,4 @@
 * *Practice*	
 
 	* Add repository [reflections](https://github.com/olehkazban/reflections) with reflections file to Lesson #01 Lesson #02
+	* Add repository [asteroids-lesson#01](https://github.com/olehkazban/asteroids-lesson-01) with an Asteroids project for Lesson #01
