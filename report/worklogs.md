@@ -48,3 +48,14 @@
 		* Also they have different pricing model which is based on private repositories / quantity of contributors
 	* **Q:** Why we need to create two types of reports each day ?
 		* **A:** Because two types of reports helps us to divide our future tasks with setted priority from already finished tasks with time for their execution. Thus we can plan our tasks, building task list using priority and forecast estimated time for task execution.
+
+##2015-June-05
+
+* *Theory*
+ 
+	* Finished Lesson #02
+	* Beggining work with Github
+
+* *Practice*	
+
+	* Add repository [reflections](https://github.com/olehkazban/reflections) with reflections file to Lesson #01 Lesson #02
