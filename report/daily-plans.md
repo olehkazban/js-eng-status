@@ -1,13 +1,7 @@
 #Daily Plans
 
-##2015-May-30
+##2015-June-05
 
-1. Finilize 'learning principles' (~2h)
-1. Prepare eng stauts project and start using it (~2h)
-1. Create skeleton of 'Tools for Collaboration' (~1h)
-
-##2015-May-01
-
-1. Prepare template of trainee workbook (~3h)
-1. Prepare video matherial (~3h)
-1. Review content and try worklow trainee-mentor (~2h)
+1. Finilize [Lesson2](https://www.udacity.com/) (~3h)
+2. Setting Jing for collaboration (~30m)
+3. Studying [Using Git & Github 2](https://github.com/Cyberixxx/js-eng-init/blob/master/bootcamp/tools-for-collaboration-2.md#use-git-and-github-2)
