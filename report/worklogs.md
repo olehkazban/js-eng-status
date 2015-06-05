@@ -54,7 +54,7 @@
 * *Theory*
  
 	* Finished Lesson #02
-	* Beggining work with Github
+	* Beggining work with Github - Forks, Pull requests
 
 * *Practice*	
 
@@ -62,4 +62,6 @@
 	* Add repository [asteroids-lesson#01](https://github.com/olehkazban/asteroids-lesson-01) with an Asteroids project for Lesson #01
 	* Add repository [pappu-pakia-lesson#01](https://github.com/olehkazban/pappu-pakia-lesson-01) with Pappu-pakia project for Lesson #01
 	* Add repository [asteroids-lesson#02](https://github.com/olehkazban/asteroids-lesson-02) with corresponding project for Lesson #02
+	* Add corresponding reflections file for [Lesson #03](https://github.com/olehkazban/reflections/blob/master/lesson_3_reflection_prompts.txt)
+	* Add [recipe](https://github.com/olehkazban/recipes) repository and experimenting with Fetch, Pull requests
 
