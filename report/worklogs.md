@@ -60,3 +60,5 @@
 
 	* Add repository [reflections](https://github.com/olehkazban/reflections) with reflections file to Lesson #01 Lesson #02
 	* Add repository [asteroids-lesson#01](https://github.com/olehkazban/asteroids-lesson-01) with an Asteroids project for Lesson #01
+	* Add repository [pappu-pakia-lesson#01](https://github.com/olehkazban/pappu-pakia-lesson-01) with Pappu-pakia project for Lesson #01
+
