@@ -15,7 +15,9 @@
 	* Fixed order of daily-plans (~5m)
 	* Installed Node.js (~5m)
 	* Installed gVim (~5m)
+	* Installed JSHint + Sublime plug-in (~5m)
 	* Fixed repositories for [asteroids](https://github.com/olehkazban/asteroids) and [pappu-pakia](https://github.com/olehkazban/pappu-pakia), according to "@nesterone : No need to create repos for each lesson like https://github.com/olehkazban/asteroids-lesson-01" (~5m)
+	* Finished [javascripting](https://github.com/sethvincent/javascripting#javascripting) (~1h)
 
 * *Miscellaneous*
 
