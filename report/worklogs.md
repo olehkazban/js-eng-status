@@ -1,5 +1,34 @@
 #Worklogs
 
+##2015-June-09
+
+* *Theory*
+
+	* Finished [Chapter 1: Getting Started & Basic DOM and Styles](http://discover-devtools.codeschool.com/chapters/1?locale=en) (~30m)
+	* Finished [Chapter 2: Advanced DOM and Styles](http://discover-devtools.codeschool.com/chapters/2?locale=en) (~30m)
+	* Finished [Chapter 3: Working With the Console](http://discover-devtools.codeschool.com/chapters/3?locale=en) (~30m)
+	* Finished [Chapter 4: Debugging JavaScript](http://discover-devtools.codeschool.com/chapters/4?locale=en) (~30m)
+	* Finished [Why coding style matter](http://www.smashingmagazine.com/2012/10/25/why-coding-style-matters) (~1h)
+	* Finished [Code Convention](https://github.com/olehkazban/javascript/tree/master/es5#properties) (~3h)
+	* Started [Basic syntax](https://github.com/olehkazban/js-eng-init/blob/master/syntax/basic-syntax.md)
+
+* *Practise*
+
+	* Add repository for [javascripting](https://github.com/olehkazban/javascripting) with my own exercises
+	* Add repository for [Code Conventions](https://github.com/olehkazban/CodeConventions)
+	* Add repository for [Eloquent JavaScript](https://github.com/olehkazban/eloquent-samples)
+
+* *Miscellaneous*
+
+	* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+	* [jQuery Core Style Guidelines](http://docs.jquery.com/JQuery_Core_Style_Guidelines)
+	* [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript/tree/master/es5)
+	* [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+	* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js/)
+	* [Principles of Writing Consistent, Idiomatic CSS](https://github.com/necolas/idiomatic-css)
+	* [GitHub Style Guide (Ruby, HTML, CSS and JavaScript)](https://github.com/styleguide/)
+
+
 ##2015-June-08
 
 * *Theory*

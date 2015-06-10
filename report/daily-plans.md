@@ -1,5 +1,11 @@
 #Daily Plans
 
+##2015-June-10
+
+1. Learn [Eloquent JavaScript - Introduction](http://eloquentjavascript.net/00_intro.html)
+2. Learn [Eloquent JavaScript - Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
+3. Learn [Eloquent JavaScript - Program Structure](http://eloquentjavascript.net/02_program_structure.html)
+
 ##2015-June-09
 
 1. Learn [JavaScript for Cats](http://jsforcats.com/) - an brief intro in JS
