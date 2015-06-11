@@ -1,6 +1,6 @@
 #Worklogs
 
-##2015-June-10
+##2015-June-11
 
 * *Theory*
 
@@ -14,6 +14,8 @@
 
 	* About 'use strict' - Strict Mode [habrahabr.ru](http://habrahabr.ru/post/118666/), [javascript.ru](https://learn.javascript.ru/strict-mode), [MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Strict_mode)
 	
+##2015-June-10
+
 * *Theory*
 
 	* Finished [Eloquent JavaScript - Introduction](http://eloquentjavascript.net/00_intro.html) (~1h)
