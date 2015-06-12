@@ -4,11 +4,13 @@
 
 * *Theory*
 
-	* []()
+	* Finished [Eloquent JavaScript - Functions](http://eloquentjavascript.net/03_functions.html)
+	* Finished [Eloquent JavaScript - Data Structures - Objects & Arrays](http://eloquentjavascript.net/04_data.html)
 
 * *Practise*
 
-	* []()
+	* Finished exercises from [Eloquent JavaScript - Functions](http://eloquentjavascript.net/03_functions.html). All code is available via [Github](https://github.com/olehkazban/eloquent-samples)
+	* Finished exercises from [Eloquent JavaScript - Data Structures - Objects & Arrays](http://eloquentjavascript.net/03_functions.html). All code is available via [Github](https://github.com/olehkazban/eloquent-samples)
 
 * *Miscellaneous*
 

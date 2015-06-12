@@ -2,6 +2,11 @@
 
 ##2015-June-11
 
+1. Explore [Douglas Crockford: Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM)
+2. Study about [High-Order Functions](https://github.com/olehkazban/js-eng-init/blob/master/syntax/high-order-functions.md)
+
+##2015-June-11
+
 1. Learn [Data Structures: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 2. Explore [Douglas Crockford: Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM)
 3. Learn [High-Order Functions](https://github.com/olehkazban/js-eng-init/blob/master/syntax/high-order-functions.md)
