@@ -1,6 +1,6 @@
 #Daily Plans
 
-##2015-June-11
+##2015-June-12
 
 1. Explore [Douglas Crockford: Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM)
 2. Study about [High-Order Functions](https://github.com/olehkazban/js-eng-init/blob/master/syntax/high-order-functions.md)
