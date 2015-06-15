@@ -1,6 +1,6 @@
 #Daily Plans
 
-##2015-June-15
+##2015-June-16
 1. Start [Project: The Electronic Life](https://github.com/olehkazban/js-eng-init/blob/master/syntax/project-the-electronic-life.md)
 
 ##2015-June-15
