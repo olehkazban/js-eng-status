@@ -1,6 +1,9 @@
 #Daily Plans
 
 ##2015-June-15
+1. Start [Project: The Electronic Life](https://github.com/olehkazban/js-eng-init/blob/master/syntax/project-the-electronic-life.md)
+
+##2015-June-15
 
 1. Finish practise for [High-Order Functions](https://github.com/olehkazban/js-eng-init/blob/master/syntax/high-order-functions.md)
 2. Learn about [Functional Programming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/)

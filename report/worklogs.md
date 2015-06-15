@@ -1,5 +1,24 @@
 #Worklogs
 
+##2015-June-15
+
+* *Theory*
+
+	* Finished [High-order Functions](http://eloquentjavascript.net/05_higher_order.html) (~4h)
+	* Started [High-Order Functions and The Secret Life of Objects](https://github.com/olehkazban/js-eng-init/blob/master/syntax/the-secret-life-of-objects.md)
+	* Finished [High-Order Functions and The Secret Life of Objects](https://github.com/olehkazban/js-eng-init/blob/master/syntax/the-secret-life-of-objects.md) (~2h)
+
+* *Practise*
+
+	* Finished practical exercises from [High-order Functions](http://eloquentjavascript.net/05_higher_order.html). All code is available via [Github](https://github.com/olehkazban/eloquent-samples) (~8h)
+	* Finished  practical exercises from [High-Order Functions and The Secret Life of Objects](https://github.com/olehkazban/js-eng-init/blob/master/syntax/the-secret-life-of-objects.md). All code is available via [Github](https://github.com/olehkazban/eloquent-samples) (~2h)
+
+
+* *Miscellaneous*
+
+	* It is ougth to learn about [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
+	* Learn about [Prototypes and Inheritance in JavaScript](https://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
+
 ##2015-June-12
 
 * *Theory*
@@ -8,7 +27,7 @@
 
 * *Practise*
 
-	* 
+	* Finished one of the practical exercises from High-order functions.
 
 * *Miscellaneous*
 
