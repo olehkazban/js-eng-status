@@ -1,5 +1,20 @@
 #Worklogs
 
+##2015-June-12
+
+* *Theory*
+
+	* Started [High-order Functions](http://eloquentjavascript.net/05_higher_order.html)
+
+* *Practise*
+
+	* 
+
+* *Miscellaneous*
+
+	* Different methods of going through the arrays [Habrahabr](http://habrahabr.ru/post/247857/)
+	* JavaScript callbacks [Habrahabr](http://habrahabr.ru/post/151716/), [Alexdev](http://alexdev.ru/869/), [MDN](https://developer.mozilla.org/en-US/docs/Mozilla/js-ctypes/Using_js-ctypes/Declaring_and_Using_Callbacks), [jQuery](http://learn.jquery.com/about-jquery/how-jquery-works/?rdfrom=http%3A%2F%2Fdocs.jquery.com%2Fmw%2Findex.php%3Ftitle%3DHow_jQuery_Works%26redirect%3Dno#Callback_and_Functions)
+
 ##2015-June-11
 
 * *Theory*

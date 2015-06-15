@@ -1,5 +1,12 @@
 #Daily Plans
 
+##2015-June-15
+
+1. Finish practise for [High-Order Functions](https://github.com/olehkazban/js-eng-init/blob/master/syntax/high-order-functions.md)
+2. Learn about [Functional Programming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/)
+3. Learn about [Don’t Be Scared Of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/)
+4. Transfer to next level [High-Order Functions and The Secret Life of Objects](https://github.com/olehkazban/js-eng-init/blob/master/syntax/the-secret-life-of-objects.md)
+
 ##2015-June-12
 
 1. Explore [Douglas Crockford: Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM)
