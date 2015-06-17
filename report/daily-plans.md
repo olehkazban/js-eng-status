@@ -1,5 +1,9 @@
 #Daily Plans
 
+##2015-June-17
+1. Finish [Project: The Electronic Life](https://github.com/olehkazban/js-eng-init/blob/master/syntax/project-the-electronic-life.md)
+2. Add corresponding changes to this project, according to tasks
+
 ##2015-June-16
 1. Start [Project: The Electronic Life](https://github.com/olehkazban/js-eng-init/blob/master/syntax/project-the-electronic-life.md)
 

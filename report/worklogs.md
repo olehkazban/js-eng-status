@@ -1,5 +1,26 @@
 #Worklogs
 
+##2015-June-16
+
+* *Theory*
+
+	* Started [Project: Electronic-life](http://eloquentjavascript.net/07_elife.html)
+
+* *Practise*
+
+	* Added project [eloquent-electronic-life](https://github.com/olehkazban/eloquent-electronic-life)
+
+* *Miscellaneous*
+
+	* Read about [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+	* JavaScript guides:
+	    - [javascript.com](https://www.javascript.com/resources)
+	    - [codecademy.com](http://www.codecademy.com/courses/getting-started-v2/0/1)
+	    - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+	    - [codeschool.com](https://www.codeschool.com/courses/javascript-road-trip-part-1)
+	    - [MSDN](https://msdn.microsoft.com/ru-ru/library/aa155110.aspx)
+	    - [javascript.ru](https://learn.javascript.ru/)
+
 ##2015-June-15
 
 * *Theory*
