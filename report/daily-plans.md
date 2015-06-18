@@ -1,5 +1,10 @@
 #Daily Plans
 
+##2015-June-18
+1. Start [Error Handing](http://eloquentjavascript.net/08_error.html)
+2. Start [Regexp](http://eloquentjavascript.net/09_regexp.html)
+3. Start practise for this chapter
+
 ##2015-June-17
 1. Finish [Project: The Electronic Life](https://github.com/olehkazban/js-eng-init/blob/master/syntax/project-the-electronic-life.md)
 2. Add corresponding changes to this project, according to tasks
