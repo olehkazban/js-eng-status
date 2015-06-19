@@ -1,5 +1,17 @@
 #Worklogs
 
+##2015-June-18
+
+* *Theory*
+
+	* Finished [Error Handing](http://eloquentjavascript.net/08_error.html)
+	* Finished [Regexp](http://eloquentjavascript.net/09_regexp.html)
+
+* *Practise*
+
+	* Finished exercises for [Error Handing](http://eloquentjavascript.net/08_error.html)
+	* Finished exercises for [Regexp](http://eloquentjavascript.net/09_regexp.html)
+
 ##2015-June-17
 
 * *Theory*
@@ -12,17 +24,8 @@
 
 	* Finished project [eloquent-electronic-life](https://github.com/olehkazban/eloquent-electronic-life) (~6h). All code is available through Github.
 	You can [read description](https://github.com/olehkazban/eloquent-electronic-life/blob/master/README.md)
-
-* *Miscellaneous*
-
-	* Read about [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-	* JavaScript guides:
-	    - [javascript.com](https://www.javascript.com/resources)
-	    - [codecademy.com](http://www.codecademy.com/courses/getting-started-v2/0/1)
-	    - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-	    - [codeschool.com](https://www.codeschool.com/courses/javascript-road-trip-part-1)
-	    - [MSDN](https://msdn.microsoft.com/ru-ru/library/aa155110.aspx)
-	    - [javascript.ru](https://learn.javascript.ru/)
+	* Started exercises for [Error Handing](http://eloquentjavascript.net/08_error.html)
+	* Started exercises for [Regexp](http://eloquentjavascript.net/09_regexp.html)
 
 ##2015-June-16
 
