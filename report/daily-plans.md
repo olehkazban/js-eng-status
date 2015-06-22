@@ -1,5 +1,10 @@
 #Daily Plans
 
+##2015-June-22
+1. Finish eLife with simple modules (not AMD or CommonJS)
+2. Finish eLife with CommonJS (runs only in node)
+3. Finish eLife with RequireJS and AMD (runs in browser)
+
 ##2015-June-19
 1. Finish [Error Handing](http://eloquentjavascript.net/08_error.html)(~1h)
 2. Finish [Regexp](http://eloquentjavascript.net/09_regexp.html)(~2h)

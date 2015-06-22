@@ -1,5 +1,24 @@
 #Worklogs
 
+##2015-June-22
+
+* *Practise*
+
+    * Refactoring eLife project in accordance with modules:
+        - simple (not AMD or CommonJS)
+        - CommonJS (runs only in node)
+        - RequireJS and AMD (runs in browser)
+
+##2015-June-19
+
+* *Theory*
+
+    * Started [Modular Projects](http://eloquentjavascript.net/10_modules.html)
+
+* *Practise*
+
+    * Refactoring eLife project in accordance with modules
+
 ##2015-June-18
 
 * *Theory*
