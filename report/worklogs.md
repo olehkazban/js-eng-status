@@ -2,10 +2,15 @@
 
 ##2015-June-22
 
+* *Theory*
+
+    * Finished [Modular Projects](http://eloquentjavascript.net/10_modules.html)(~6h)
+
 * *Practise*
 
+	* Practise with [simple modular system](https://github.com/olehkazban/js-simple-modules)(<1h)
     * Refactoring eLife project in accordance with modules:
-        - simple (not AMD or CommonJS)
+        - simple (not AMD or CommonJS). Available in separate branch [modular](https://github.com/olehkazban/eloquent-electronic-life/tree/modular)(~4h)
         - CommonJS (runs only in node)
         - RequireJS and AMD (runs in browser)
 
@@ -18,24 +23,25 @@
 * *Practise*
 
     * Refactoring eLife project in accordance with modules
+    * Done one of exercises [monthNames.js](https://github.com/olehkazban/eloquent-samples/tree/master/10%20Modules)
 
 ##2015-June-18
 
 * *Theory*
 
-	* Finished [Error Handing](http://eloquentjavascript.net/08_error.html)
-	* Finished [Regexp](http://eloquentjavascript.net/09_regexp.html)
+	* Finished [Error Handing](http://eloquentjavascript.net/08_error.html)(~2h)
+	* Finished [Regexp](http://eloquentjavascript.net/09_regexp.html)(~2h)
 
 * *Practise*
 
-	* Finished exercises for [Error Handing](http://eloquentjavascript.net/08_error.html)
-	* Finished exercises for [Regexp](http://eloquentjavascript.net/09_regexp.html)
+	* Finished exercises for [Error Handing](http://eloquentjavascript.net/08_error.html)(~2h)
+	* Finished exercises for [Regexp](http://eloquentjavascript.net/09_regexp.html)(~2h)
 
 ##2015-June-17
 
 * *Theory*
 
-	* Finished [Project: Electronic-life](https://github.com/olehkazban/eloquent-electronic-life)
+	* Finished [Project: Electronic-life](https://github.com/olehkazban/eloquent-electronic-life)(~6h)
 	* Started [Error Handing](http://eloquentjavascript.net/08_error.html)
 	* Started [Regexp](http://eloquentjavascript.net/09_regexp.html)
 

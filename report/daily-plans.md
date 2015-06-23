@@ -1,5 +1,10 @@
 #Daily Plans
 
+##2015-June-23
+1. Finish eLife with CommonJS (runs only in node)
+2. Finish eLife with RequireJS and AMD (runs in browser)
+3. Start Unit testing/TDD
+
 ##2015-June-22
 1. Finish eLife with simple modules (not AMD or CommonJS)
 2. Finish eLife with CommonJS (runs only in node)
