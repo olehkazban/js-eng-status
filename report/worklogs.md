@@ -1,5 +1,14 @@
 #Worklogs
 
+##2015-June-23
+
+* *Practise*
+
+    * [Sample](https://github.com/olehkazban/js-common-modules) for CommonJS module
+    * Refactoring eLife project in accordance with modules:
+        - CommonJS (runs only in node)
+        - RequireJS and AMD (runs in browser)
+
 ##2015-June-22
 
 * *Theory*
@@ -11,8 +20,6 @@
 	* Practise with [simple modular system](https://github.com/olehkazban/js-simple-modules)(<1h)
     * Refactoring eLife project in accordance with modules:
         - simple (not AMD or CommonJS). Available in separate branch [modular](https://github.com/olehkazban/eloquent-electronic-life/tree/modular)(~4h)
-        - CommonJS (runs only in node)
-        - RequireJS and AMD (runs in browser)
 
 ##2015-June-19
 
