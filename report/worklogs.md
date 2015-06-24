@@ -4,11 +4,13 @@
 
 * *Practise*
 
+    * [Sample project](js-require-modules) with using of RequireJS
     * Refactoring eLife project in accordance with RequireJS principals
 
 * Miscellaneous
 
     * Rich samples for [RequireJS](https://github.com/olehkazban/requirejstutorial)
+    * More examples for [RequireJS](http://www.erikschierboom.com/2014/11/17/requirejs/)
 
 ##2015-June-23
 
