@@ -1,12 +1,21 @@
 #Worklogs
 
+##2015-June-24
+
+* *Practise*
+
+    * Refactoring eLife project in accordance with RequireJS principals
+
+* Miscellaneous
+
+    * Rich samples for [RequireJS](https://github.com/olehkazban/requirejstutorial)
+
 ##2015-June-23
 
 * *Practise*
 
     * [Sample](https://github.com/olehkazban/js-common-modules) for CommonJS module
     * Refactoring eLife project in accordance with modules:
-        - CommonJS (runs only in node)
         - RequireJS and AMD (runs in browser)
 
 ##2015-June-22

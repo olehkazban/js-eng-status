@@ -1,5 +1,8 @@
 #Daily Plans
 
+##2015-June-24
+1. Finish eLife project with RequireJS realization
+
 ##2015-June-23
 1. Finish eLife with CommonJS (runs only in node)
 2. Finish eLife with RequireJS and AMD (runs in browser)
