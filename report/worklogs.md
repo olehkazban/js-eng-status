@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-June-25
+
+* *Practise*
+	* Finished [Project eLife](https://github.com/olehkazban/eloquent-electronic-life/tree/modular)
+
 ##2015-June-24
 
 * *Practise*

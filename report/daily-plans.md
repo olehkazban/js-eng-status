@@ -1,7 +1,10 @@
 #Daily Plans
 
-##2015-June-24
+##2015-June-25
 1. Finish eLife project with RequireJS realization
+
+##2015-June-24
+1. Refactor eLife project with simple module (non RequireJS) realization
 
 ##2015-June-23
 1. Finish eLife with CommonJS (runs only in node)
