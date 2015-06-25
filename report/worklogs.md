@@ -6,8 +6,8 @@
 	* Finished [Project eLife](https://github.com/olehkazban/eloquent-electronic-life/tree/modular)
 
 * *Miscellaneous*
-    * RequireJS made ridiculously easy - Part 1 of 2: [RequireJS made ridiculously easy, in just 10ish minutes](https://youtu.be/eRqsZqLyYaU)
-    * RequireJS made ridiculously easy - Part 2 of 2: [RequireJS made ridiculously easy - Part 2 of 2 - AMDifying scripts & RequireJS Optimizer](https://www.youtube.com/watch?v=_n4-zAhaHSM)
+    * Part 1 of 2: [RequireJS made ridiculously easy, in just 10ish minutes](https://youtu.be/eRqsZqLyYaU)
+    * Part 2 of 2: [RequireJS made ridiculously easy - Part 2 of 2 - AMDifying scripts & RequireJS Optimizer](https://www.youtube.com/watch?v=_n4-zAhaHSM)
 
 ##2015-June-24
 
