@@ -14,6 +14,8 @@
 
 * Miscellaneous
 
+	* [Simple modules tutorial](http://toddmotto.com/mastering-the-module-pattern/)
+	* Essential Javascript design [patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
     * Rich samples for [RequireJS](https://github.com/olehkazban/requirejstutorial)
     * More examples for [RequireJS](http://www.erikschierboom.com/2014/11/17/requirejs/)
 
