@@ -5,6 +5,10 @@
 * *Practise*
 	* Finished [Project eLife](https://github.com/olehkazban/eloquent-electronic-life/tree/modular)
 
+* *Miscellaneous*
+    * RequireJS made ridiculously easy - Part 1 of 2: [RequireJS made ridiculously easy, in just 10ish minutes](https://youtu.be/eRqsZqLyYaU)
+    * RequireJS made ridiculously easy - Part 2 of 2: [RequireJS made ridiculously easy - Part 2 of 2 - AMDifying scripts & RequireJS Optimizer](https://www.youtube.com/watch?v=_n4-zAhaHSM)
+
 ##2015-June-24
 
 * *Practise*
@@ -12,10 +16,10 @@
     * [Sample project](js-require-modules) with using of RequireJS
     * Refactoring eLife project in accordance with RequireJS principals
 
-* Miscellaneous
+* *Miscellaneous*
 
 	* [Simple modules tutorial](http://toddmotto.com/mastering-the-module-pattern/)
-	* Essential Javascript design [patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
+	* Essential Javascript design [patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascriptrequire.js)
     * Rich samples for [RequireJS](https://github.com/olehkazban/requirejstutorial)
     * More examples for [RequireJS](http://www.erikschierboom.com/2014/11/17/requirejs/)
 
