@@ -1,5 +1,8 @@
 #Daily Plans
 
+##2015-July-01
+1. Start with [TDD principals](https://github.com/brotherhood-of-javascript/js-eng-init/blob/master/organize-code/unit-tests.md)
+
 ##2015-June-30
 1. Finish eLife project with CommonJS + Broserify realization
 2. Look at [TDD principals](https://github.com/brotherhood-of-javascript/js-eng-init/blob/master/organize-code/unit-tests.md)

@@ -7,6 +7,9 @@
 
 * *Practise*
     * Refactoring eLife project in accordance with CommonJS
+    * Finished [eLife project](https://github.com/olehkazban/eloquent-electronic-life/tree/common)
+     with CommonJS (output can be visible [here](https://raw.githubusercontent.com/olehkazban/eloquent-electronic-life/common/output)).
+     Project is also available with [Github Pages](http://olehkazban.github.io/eloquent-electronic-life/) (to see immediately).
 
 * *Miscellaneous*
     * [CommonJS Intro](https://egghead.io/lessons/nodejs-commonjs-basics-introduction)
@@ -17,7 +20,8 @@
 	* Finished [Project eLife](https://github.com/olehkazban/eloquent-electronic-life/tree/require) with RequireJS
 
 * *Miscellaneous*
-	* [CommonJS](https://egghead.io/lessons/nodejs-commonjs-basics-introduction)
+	* [CommonJS - Introduction](https://egghead.io/lessons/nodejs-commonjs-basics-introduction)
+	* [What are CommonJS modules](https://egghead.io/lessons/nodejs-what-are-commonjs-modules)
 
 ##2015-June-25
 
