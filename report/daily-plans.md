@@ -1,5 +1,13 @@
 #Daily Plans
 
+##2015-June-30
+1. Finish eLife project with CommonJS + Broserify realization
+2. Look at [TDD principals](https://github.com/brotherhood-of-javascript/js-eng-init/blob/master/organize-code/unit-tests.md)
+
+##2015-June-26
+1. Finish eLife project with RequireJS realization
+2. Revert to CommonJS realization
+
 ##2015-June-25
 1. Finish eLife project with RequireJS realization
 

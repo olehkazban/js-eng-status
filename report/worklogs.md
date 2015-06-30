@@ -1,9 +1,25 @@
 #Worklogs
 
+##2015-June-30
+
+* *Theory*
+    * Refreshing CommonJS
+
+* *Practise*
+    * Refactoring eLife project in accordance with CommonJS
+
+##2015-June-26
+
+* *Practise*
+	* Finished [Project eLife](https://github.com/olehkazban/eloquent-electronic-life/tree/require) with RequireJS
+
+* *Miscellaneous*
+	* [CommonJS](https://egghead.io/lessons/nodejs-commonjs-basics-introduction)
+
 ##2015-June-25
 
 * *Practise*
-	* Finished [Project eLife](https://github.com/olehkazban/eloquent-electronic-life/tree/modular)
+	* Finished [Project eLife](https://github.com/olehkazban/eloquent-electronic-life/tree/modular) with simple modules (non Require or Common)
 
 * *Miscellaneous*
     * Part 1 of 2: [RequireJS made ridiculously easy, in just 10ish minutes](https://youtu.be/eRqsZqLyYaU)
