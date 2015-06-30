@@ -8,6 +8,9 @@
 * *Practise*
     * Refactoring eLife project in accordance with CommonJS
 
+* *Miscellaneous*
+    * [CommonJS Intro](https://egghead.io/lessons/nodejs-commonjs-basics-introduction)
+
 ##2015-June-26
 
 * *Practise*
