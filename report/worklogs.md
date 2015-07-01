@@ -8,6 +8,7 @@
 * *Practise*
     * Refactoring [RequireJS](https://github.com/olehkazban/eloquent-electronic-life/tree/require) branch in accordance with code style.
     * [CommonJS with Browserify](https://github.com/olehkazban/eloquent-electronic-life/tree/common) to run in browser.
+    * Update Github pages (URL was added to main page) with last build - CommonJS + Browserify
 
 ##2015-June-30
 
