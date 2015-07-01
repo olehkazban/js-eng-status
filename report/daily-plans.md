@@ -1,7 +1,12 @@
 #Daily Plans
 
+##2015-July-02
+1. Start with [TDD principals](https://github.com/brotherhood-of-javascript/js-eng-init/blob/master/organize-code/unit-tests.md)
+
 ##2015-July-01
 1. Start with [TDD principals](https://github.com/brotherhood-of-javascript/js-eng-init/blob/master/organize-code/unit-tests.md)
+2. Refactoring of current RequireJS in accordance with code style
+3. Build current CommonJS branch with Browserify to run in browser
 
 ##2015-June-30
 1. Finish eLife project with CommonJS + Broserify realization

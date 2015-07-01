@@ -3,6 +3,15 @@
 ##2015-June-30
 
 * *Theory*
+    * [Build with Browserify](https://github.com/substack/node-browserify#browserify)
+
+* *Practise*
+    * Refactoring [RequireJS](https://github.com/olehkazban/eloquent-electronic-life/tree/require) branch in accordance with code style.
+    * [CommonJS with Browserify](https://github.com/olehkazban/eloquent-electronic-life/tree/common) to run in browser.
+
+##2015-June-30
+
+* *Theory*
     * Refreshing CommonJS
 
 * *Practise*
