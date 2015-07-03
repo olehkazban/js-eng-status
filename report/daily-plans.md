@@ -1,5 +1,8 @@
 #Daily Plans
 
+##2015-July-03
+1. Finish [try-bdd-with-utils](https://github.com/olehkazban/try-bdd-with-utils) module
+
 ##2015-July-02
 1. Start with [TDD principals](https://github.com/brotherhood-of-javascript/js-eng-init/blob/master/organize-code/unit-tests.md)
 

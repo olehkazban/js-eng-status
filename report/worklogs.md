@@ -1,5 +1,31 @@
 #Worklogs
 
+##2015-July-03
+
+* *Practise*
+    * [try-bdd-with-utils](https://github.com/olehkazban/try-bdd-with-utils) testing project
+
+##2015-July-02
+
+* *Theory*
+    * [TDD & BDD](https://github.com/olehkazban/js-eng-init/blob/master/organize-code/unit-tests.md) principals
+
+* *Practise*
+    * Starting module "try-bdd-with-utils"
+
+* *Miscellaneous*
+    * [Jasmine](http://code.tutsplus.com/courses/javascript-testing-with-jasmine-20)
+    * [BDD quick start with Jasmine](https://youtu.be/eOSN-ZdA4OM)
+    * [Jasmine tutorials](https://www.youtube.com/playlist?list=PLOxOmO43E6Jt0SruKGxtZs-W3PJN90G_a) from Envato
+
+##2015-July-01
+
+* *Theory*
+    * [TDD & BDD](https://github.com/olehkazban/js-eng-init/blob/master/organize-code/unit-tests.md) principals
+
+* *Practise*
+    * Finishing [Project eLife](https://github.com/olehkazban/eloquent-electronic-life) - comments, licence info, layout fixing etc.
+
 ##2015-June-30
 
 * *Theory*
