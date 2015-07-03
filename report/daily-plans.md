@@ -5,6 +5,7 @@
 
 ##2015-July-02
 1. Start with [TDD principals](https://github.com/brotherhood-of-javascript/js-eng-init/blob/master/organize-code/unit-tests.md)
+2. Finishing [Project eLife](https://github.com/olehkazban/eloquent-electronic-life) - licence info, comments, layout, removing unused commented code etc.
 
 ##2015-July-01
 1. Start with [TDD principals](https://github.com/brotherhood-of-javascript/js-eng-init/blob/master/organize-code/unit-tests.md)
