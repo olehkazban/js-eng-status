@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-July-04
+
+* *Practise*
+    * Playing with [try-bdd-with-utils](https://github.com/olehkazban/try-bdd-with-utils) testing project
+
 ##2015-July-03
 
 * *Practise*

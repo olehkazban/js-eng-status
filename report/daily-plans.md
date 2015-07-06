@@ -1,5 +1,8 @@
 #Daily Plans
 
+##2015-July-06
+1. Expand tests and finish [try-bdd-with-utils](https://github.com/olehkazban/try-bdd-with-utils) module
+
 ##2015-July-03
 1. Finish [try-bdd-with-utils](https://github.com/olehkazban/try-bdd-with-utils) module
 
