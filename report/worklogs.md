@@ -5,6 +5,9 @@
 * *Practise*
     * Playing with [try-bdd-with-utils](https://github.com/olehkazban/try-bdd-with-utils) testing project
 
+* *Miscellaneous*
+    * Mocha [docs](http://mochajs.org/)
+
 ##2015-July-03
 
 * *Practise*
