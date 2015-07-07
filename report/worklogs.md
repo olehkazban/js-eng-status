@@ -1,6 +1,15 @@
 #Worklogs
 
-##2015-July-04
+##2015-July-07
+
+* *Practise*
+    * Finishing [try-bdd-with-utils](https://github.com/olehkazban/try-bdd-with-utils) testing project
+
+* *Miscellaneous*
+    * LoDash [docs](https://lodash.com/docs)
+    * Underscore [docs](http://underscorejs.org/)
+
+##2015-July-06
 
 * *Practise*
     * Playing with [try-bdd-with-utils](https://github.com/olehkazban/try-bdd-with-utils) testing project

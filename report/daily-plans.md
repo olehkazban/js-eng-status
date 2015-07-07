@@ -1,5 +1,9 @@
 #Daily Plans
 
+##2015-July-07
+1. Expand tests and finish [try-bdd-with-utils](https://github.com/olehkazban/try-bdd-with-utils) module
+2. Start Program Language project
+
 ##2015-July-06
 1. Expand tests and finish [try-bdd-with-utils](https://github.com/olehkazban/try-bdd-with-utils) module
 
