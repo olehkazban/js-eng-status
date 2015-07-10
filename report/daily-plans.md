@@ -1,5 +1,12 @@
 #Daily Plans
 
+##2015-July-10
+1. Tests for [Programming Language](https://github.com/olehkazban/Programming-Language) and next methods realization.
+
+##2015-July-09
+1. Tests for [try-bdd-with-utils](https://github.com/olehkazban/try-bdd-with-utils) with Sinon.
+2. [Programming Language](https://github.com/olehkazban/Programming-Language) - first methods and tests.
+
 ##2015-July-08
 1. Start [Programming Language](https://github.com/olehkazban/Programming-Language) Project
 

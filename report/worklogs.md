@@ -1,5 +1,21 @@
 #Worklogs
 
+##2015-July-10
+
+* *Practise*
+    * Tests for implementation. Programming Language Project: parser, interpreter implementation.
+
+##2015-July-09
+
+* *Practise*
+    * Update [try-bdd-with-utils](https://github.com/olehkazban/try-bdd-with-utils) Project:
+        * Updated README.md with methods description.
+        * Updated deepEqual() utility for comparing smart objects.
+        * Added new method inputType() for determine input type Object. All corresponding calls are updated.
+        * Added new test with smart Object to test deepEqual() method.
+        * Added test to cover inputType() and toString() behaviour.
+        * Added new tests for once() and debounce() methods with Sinon fake timers and spies.
+
 ##2015-July-08
 
 * *Theory*
