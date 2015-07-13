@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-July-13
+
+* *Practise*
+	* Improve [Programming Language](https://github.com/olehkazban/Programming-Language) Project. Expand core with new keywords and language abilities.
+
 ##2015-July-10
 
 * *Practise*

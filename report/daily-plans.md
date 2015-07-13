@@ -1,5 +1,8 @@
 #Daily Plans
 
+##2015-July-13
+1. Improving [Programming Language](https://github.com/olehkazban/Programming-Language) - expanding language abilities and tests.
+
 ##2015-July-10
 1. Tests for [Programming Language](https://github.com/olehkazban/Programming-Language) and next methods realization.
 
