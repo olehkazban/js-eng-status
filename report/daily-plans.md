@@ -1,5 +1,10 @@
 #Daily Plans
 
+##2015-July-14
+1. Programming Language Project - parser improving.
+2. Testing.
+3. New keywords.
+
 ##2015-July-13
 1. Improving [Programming Language](https://github.com/olehkazban/Programming-Language) - expanding language abilities and tests.
 

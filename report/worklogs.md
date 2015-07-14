@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-July-14
+
+* *Practise*
+	* Programming Language Project - expand keywords, improving parser for ability using internal function calls.
+
 ##2015-July-13
 
 * *Practise*
