@@ -1,5 +1,20 @@
 #Worklogs
 
+##2015-July-15
+
+* *Theory*
+	* [JavaScript and the Browser](http://eloquentjavascript.net/12_browser.html)
+	* [The Document Object Model](http://eloquentjavascript.net/13_dom.html)
+	* [Handling Events](http://eloquentjavascript.net/14_event.html)
+
+* *Practise*
+	* [Build a table]()
+	* [Elements by tag name]()
+	* [The cat's hat]()
+	* [Censored Keyboard]()
+	* [Mouse Trail]()
+	* [Tabs]()
+
 ##2015-July-14
 
 * *Practise*

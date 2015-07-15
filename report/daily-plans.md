@@ -1,5 +1,8 @@
 #Daily Plans
 
+##2015-July-15
+1. Starting [JavaScript in Browser](https://github.com/olehkazban/js-eng-init/blob/master/browser/dom.md)
+
 ##2015-July-14
 1. Programming Language Project - parser improving.
 2. Testing.
