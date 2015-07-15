@@ -8,7 +8,7 @@
 	* [Handling Events](http://eloquentjavascript.net/14_event.html)
 
 * *Practise*
-	* [Build a table]()
+	* [Build a table](https://github.com/olehkazban/eloquent-samples/tree/master/13%20DOM/BuildTable)
 	* [Elements by tag name]()
 	* [The cat's hat]()
 	* [Censored Keyboard]()
