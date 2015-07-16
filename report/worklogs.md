@@ -7,7 +7,7 @@
 
 * *Practise*
 	* [Censored Keyboard](https://github.com/olehkazban/eloquent-samples/tree/master/14%20Handling%20Events/Censored%20keyboard)
-	* [Mouse Trail]()
+	* [Mouse Trail](https://github.com/olehkazban/eloquent-samples/tree/master/14%20Handling%20Events/Mouse%20Trail)
 	* [Tabs]()
 
 ##2015-July-15
