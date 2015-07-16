@@ -6,7 +6,7 @@
 	* [Handling Events](http://eloquentjavascript.net/14_event.html)
 
 * *Practise*
-	* [Censored Keyboard]()
+	* [Censored Keyboard](https://github.com/olehkazban/eloquent-samples/tree/master/14%20Handling%20Events/Censored%20keyboard)
 	* [Mouse Trail]()
 	* [Tabs]()
 
