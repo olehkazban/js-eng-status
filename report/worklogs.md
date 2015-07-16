@@ -1,19 +1,25 @@
 #Worklogs
 
+##2015-July-16
+
+* *Theory*
+	* [Handling Events](http://eloquentjavascript.net/14_event.html)
+
+* *Practise*
+	* [Censored Keyboard]()
+	* [Mouse Trail]()
+	* [Tabs]()
+
 ##2015-July-15
 
 * *Theory*
 	* [JavaScript and the Browser](http://eloquentjavascript.net/12_browser.html)
 	* [The Document Object Model](http://eloquentjavascript.net/13_dom.html)
-	* [Handling Events](http://eloquentjavascript.net/14_event.html)
 
 * *Practise*
 	* [Build a table](https://github.com/olehkazban/eloquent-samples/tree/master/13%20DOM/BuildTable)
-	* [Elements by tag name]()
-	* [The cat's hat]()
-	* [Censored Keyboard]()
-	* [Mouse Trail]()
-	* [Tabs]()
+	* [Elements by tag name](https://github.com/olehkazban/eloquent-samples/tree/master/13%20DOM/ElementsByTagName)
+	* [The cat's hat](https://github.com/olehkazban/eloquent-samples/tree/master/13%20DOM/CatHat)
 
 ##2015-July-14
 

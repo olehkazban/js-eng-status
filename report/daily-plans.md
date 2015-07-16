@@ -1,5 +1,9 @@
 #Daily Plans
 
+##2015-July-16
+1. Finish Handling events and corresponding tasks.
+2. Start Theory section about Platformer Project.
+
 ##2015-July-15
 1. Starting [JavaScript in Browser](https://github.com/olehkazban/js-eng-init/blob/master/browser/dom.md)
 
