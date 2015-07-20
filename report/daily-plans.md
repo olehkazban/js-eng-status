@@ -1,5 +1,14 @@
 #Daily Plans
 
+##2015-July-20
+1. Refactoring into modules
+2. TDD/BDD
+
+##2015-July-17
+1. Platformer Project
+2. Refactoring into modules
+3. TDD/BDD
+
 ##2015-July-16
 1. Finish Handling events and corresponding tasks.
 2. Start Theory section about Platformer Project.

@@ -1,5 +1,13 @@
 #Worklogs
 
+##2015-July-17
+
+* *Theory*
+	* [Platformer Project](http://eloquentjavascript.net/15_game.html)
+
+* *Practise*
+   	* [Platformer Project](https://github.com/olehkazban/Project-Platformer) realization
+
 ##2015-July-16
 
 * *Theory*
