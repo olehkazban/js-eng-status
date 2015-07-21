@@ -1,5 +1,8 @@
 #Daily Plans
 
+##2015-July-21
+1. Testing and improving [Platformer Project](https://github.com/olehkazban/Project-Platformer)
+
 ##2015-July-20
 1. Refactoring into modules
 2. TDD/BDD

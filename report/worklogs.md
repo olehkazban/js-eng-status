@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-July-20
+
+* *Practise*
+   	* [Platformer Project](https://github.com/olehkazban/Project-Platformer) realization with RequireJS
+
 ##2015-July-17
 
 * *Theory*
