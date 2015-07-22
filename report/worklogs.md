@@ -1,5 +1,10 @@
 #Worklogs
 
+##2015-July-21
+
+* *Practise*
+   	* TDD implementation for [Platformer Project](https://github.com/olehkazban/Project-Platformer)
+
 ##2015-July-20
 
 * *Practise*

@@ -1,5 +1,8 @@
 #Daily Plans
 
+##2015-July-22
+1. Testing and improving [Platformer Project](https://github.com/olehkazban/Project-Platformer)
+
 ##2015-July-21
 1. Testing and improving [Platformer Project](https://github.com/olehkazban/Project-Platformer)
 
