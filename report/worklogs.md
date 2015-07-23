@@ -5,6 +5,10 @@
 * *Practise*
    	* TDD implementation for [Platformer Project](https://github.com/olehkazban/Project-Platformer)
 
+* *Miscellaneous*
+	* Loader for mocking RequireJS [amd-loader](https://www.npmjs.com/package/amd-loader)
+	* [JSDom](https://github.com/tmpvar/jsdom) for testing browser objects in Node
+
 ##2015-July-20
 
 * *Practise*
