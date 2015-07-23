@@ -1,5 +1,10 @@
 #Daily Plans
 
+##2015-July-23
+1. Finish testing [Platformer Project](https://github.com/olehkazban/Project-Platformer)
+2. Upload through Github Pages
+3. Update README.md for [Programming Language](https://github.com/olehkazban/Programming-Language)
+
 ##2015-July-22
 1. Testing and improving [Platformer Project](https://github.com/olehkazban/Project-Platformer)
 

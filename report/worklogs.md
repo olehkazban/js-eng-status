@@ -1,5 +1,20 @@
 #Worklogs
 
+##2015-July-23
+
+* *Practise*
+   	* Finish tests for [Platformer Project](https://github.com/olehkazban/Project-Platformer).
+   	Covered Entities. Project also is available trough [Github Pages](http://olehkazban.github.io/Project-Platformer/)
+
+* *Miscellaneous*
+    * [Running scripts with npm](http://www.jayway.com/2014/03/28/running-scripts-with-npm/)
+    * [DevTools Snippets](http://bgrins.github.io/devtools-snippets/)
+
+##2015-July-22
+
+* *Practise*
+   	* Tests for [Platformer Project](https://github.com/olehkazban/Project-Platformer). Covered Levels, World.
+
 ##2015-July-21
 
 * *Practise*
