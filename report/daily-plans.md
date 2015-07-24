@@ -1,5 +1,9 @@
 #Daily Plans
 
+##2015-July-24
+1. Canvas exercises
+2. Canvas Engine for Platformer Project
+
 ##2015-July-23
 1. Finish testing [Platformer Project](https://github.com/olehkazban/Project-Platformer)
 2. Upload through Github Pages

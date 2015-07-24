@@ -3,12 +3,24 @@
 ##2015-July-23
 
 * *Practise*
+   	* Canvas [exercises](https://github.com/olehkazban/eloquent-samples/tree/master/16%20Canvas%20Drawing)
+
+* *Miscellaneous*
+    * MDN [Canvas drawing](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Canvas_tutorial/%D0%A0%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%84%D0%B8%D0%B3%D1%83%D1%80)
+
+##2015-July-23
+
+* *Practise*
    	* Finish tests for [Platformer Project](https://github.com/olehkazban/Project-Platformer).
    	Covered Entities. Project also is available trough [Github Pages](http://olehkazban.github.io/Project-Platformer/)
+   	* Start Canvas exercises
 
 * *Miscellaneous*
     * [Running scripts with npm](http://www.jayway.com/2014/03/28/running-scripts-with-npm/)
     * [DevTools Snippets](http://bgrins.github.io/devtools-snippets/)
+
+* *Theory*
+	* Start [Drawing on canvas](https://github.com/olehkazban/js-eng-init/blob/master/browser/drawing-on-canvas.md)
 
 ##2015-July-22
 
