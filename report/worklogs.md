@@ -1,5 +1,33 @@
 #Worklogs
 
+##2015-July-28
+
+* *Theory*
+	* Forms and fields
+
+* *Practise*
+	* [Forms and fields](https://github.com/olehkazban/eloquent-samples/tree/master/18%20Forms%20and%20fields)
+
+##2015-July-27
+
+* *Theory*
+	* HTTP
+	* Forms and fields
+
+* *Practise*
+	* [HTTP](https://github.com/olehkazban/eloquent-samples/tree/master/17%20HTTP)
+
+* Miscellaneous
+	* [Content negotiation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation)
+
+##2015-July-24
+
+* *Practise*
+   	* Finished [Platformer Project](https://github.com/olehkazban/Project-Platformer)
+   	with Canvas Engine. Additionally: Sound Engine was added, new "Game Over" realization
+   	* Canvas [exercises](https://github.com/olehkazban/eloquent-samples/tree/master/16%20Canvas%20Drawing)
+   	 (only first tasks, other goes fo free time due to lack of time). Additionally - drawer helper
+
 ##2015-July-23
 
 * *Practise*

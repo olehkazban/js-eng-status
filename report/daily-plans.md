@@ -1,5 +1,11 @@
 #Daily Plans
 
+##2015-July-27
+1. Starting [Forms](http://eloquentjavascript.net/18_forms.html)
+
+##2015-July-27
+1. Starting [HTTP and Forms](https://github.com/olehkazban/js-eng-init/blob/master/browser/http-and-forms.md)
+
 ##2015-July-24
 1. Canvas exercises
 2. Canvas Engine for Platformer Project
