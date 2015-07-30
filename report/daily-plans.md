@@ -1,6 +1,12 @@
 #Daily Plans
 
-##2015-July-27
+##2015-July-30
+1. Finish Canvas [Paint project](https://github.com/olehkazban/Project-Paint)
+
+##2015-July-29
+1. Canvas [Paint project](https://github.com/olehkazban/Project-Paint)
+
+##2015-July-28
 1. Starting [Forms](http://eloquentjavascript.net/18_forms.html)
 
 ##2015-July-27
