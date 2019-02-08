@@ -13,10 +13,6 @@
 ###My Team
 
 * [Oleg Kazban](https://github.com/olehkazban/js-eng-status)
-* [Vitaliy B](https://github.com/am1k/js-eng-status)
-* [Denys Bykanov](https://github.com/bydens/js-eng-status)
-* [Valeriy](https://github.com/drwebmaker/js-eng-status)
-* [Wall E ](https://github.com/walle010101/js-eng-status)
 * [Daniil Deli](https://github.com/daniildeli/js-eng-status)
 
 ##My Reporting
