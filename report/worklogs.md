@@ -1,6 +1,6 @@
 #Worklogs
 
-##2019-February-11
+##2019-February-12
 
 * *Theory*
 	* Investigated information on MDN (Numbers, Strings, Arrays, Objects, Date, Functions)
