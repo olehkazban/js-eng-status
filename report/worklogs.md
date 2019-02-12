@@ -3,6 +3,14 @@
 ##2019-February-11
 
 * *Theory*
+	* Investigated information on MDN (Numbers, Strings, Arrays, Objects, Date, Functions)
+
+* *Practise*
+	* Working with parameters and methods on test scripts. (https://github.com/daniildeli/JStrainings/tree/master/JS/MDN)
+
+##2019-February-11
+
+* *Theory*
 	* Finished online courses about Git: How to Use Git and GitHub (https://www.udacity.com/course/how-to-use-git-and-github--ud775), Version Control with Git (https://www.udacity.com/course/version-control-with-git--ud123)
 	* Javascripting: variables, string, numbers, if statements, loops, arays, objects, functions, scope
 
