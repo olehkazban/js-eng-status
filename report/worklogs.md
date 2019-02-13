@@ -9,11 +9,12 @@
 	* Working with data types, conditionals and loops. (https://github.com/daniildeli/JStrainings/tree/master/JS/type_condition_loops)
 	
 *  There are a few moments that seems a little weird for me:
-	* Type conversion: {} + [] + {} + [1] ==> "[object Object][object Object]1";
-	* 		   ! + [] + [] + ![] ==> "truefalse";
-	* 		   {} + [] ==> [object Object];	 
-	*                  +{} + [] ==> "NaN;  
-	*for of: Can we use it for objects like:
+	* Type conversion: 
+		* {} + [] + {} + [1] ==> "[object Object][object Object]1";
+		* ! + [] + [] + ![] ==> "truefalse";
+		* {} + [] ==> [object Object];	 
+		* +{} + [] ==> "NaN;  
+	* for of: Can we use it for objects like:
 		let obj = {
 		  a: 1,
 		  b: 2,
