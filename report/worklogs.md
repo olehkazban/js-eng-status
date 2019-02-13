@@ -1,5 +1,31 @@
 #Worklogs
 
+##2019-February-13
+
+* *Theory*
+	* Investigated information about type conversion, conditionals and loops
+
+* *Practise*
+	* Working with data types, conditionals and loops. (https://github.com/daniildeli/JStrainings/tree/master/JS/type_condition_loops)
+	
+*  There are a few moments that seems a little weird for me:
+	* Type conversion: {} + [] + {} + [1] ==> "[object Object][object Object]1";
+	* 		   ! + [] + [] + ![] ==> "truefalse";
+	* 		   {} + [] ==> [object Object];	 
+	*                  +{} + [] ==> "NaN;  
+	*for of: Can we use it for objects like:
+		let obj = {
+		  a: 1,
+		  b: 2,
+		  c: 3
+		}
+		
+		for (let i of obj){
+		  console.log(i);
+		}
+
+		==> TypeError
+
 ##2019-February-12
 
 * *Theory*
