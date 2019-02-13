@@ -12,7 +12,7 @@
 	* Type conversion: 
 		* {} + [] + {} + [1] ==> "[object Object][object Object]1";
 		* ! + [] + [] + ![] ==> "truefalse";
-		* {} + [] ==> [object Object];	 
+		* {} + [] ==> "[object Object]";	 
 		* +{} + [] ==> "NaN";  
 	* for of: Can we use it for objects like:
 		let obj = {
