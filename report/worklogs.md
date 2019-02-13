@@ -13,7 +13,7 @@
 		* {} + [] + {} + [1] ==> "[object Object][object Object]1";
 		* ! + [] + [] + ![] ==> "truefalse";
 		* {} + [] ==> [object Object];	 
-		* +{} + [] ==> "NaN;  
+		* +{} + [] ==> "NaN";  
 	* for of: Can we use it for objects like:
 		let obj = {
 		  a: 1,
