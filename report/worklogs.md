@@ -2,6 +2,14 @@
 
 ##2019-February-14
 
+* *Theory*
+	* Analyze information about values, types, operators and program structure on Eloquentjavascript (https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/chapters/chapter1.html and https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/chapters/chapter2.html);
+	* Memory managemament in js
+
+* *Practise*
+	* Complited tasks on Eloquentjavascript (chapter 2). Code here: https://github.com/daniildeli/EloquentJS
+	* Looked on memory, stack and event loop in js (https://github.com/daniildeli/JStrainings/tree/master/test). This video seems quite informative: https://www.youtube.com/watch?v=8cV4ZvHXQL4
+
 ##2019-February-13
 
 * *Theory*
