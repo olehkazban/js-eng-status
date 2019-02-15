@@ -1,5 +1,19 @@
 #Worklogs
 
+##2019-February-15
+
+* *Theory*
+	* Advanced data structures: https://medium.com/dev-blogs/ds-with-js-stack-queue-d91fc8cea7a3;
+	* EloquentJS: functions, data structures, higher-order functions. (Chapter 3 - 5);
+
+* *Practise*
+	* Tasks on Eloquentjavascript (chapter 3 - 5). Code here: https://github.com/daniildeli/EloquentJS;
+
+	* Troubles with next exercises:
+		* chapter-04 - compare.js;
+		* chapter-04 - list.js;
+		* chapter-05 - age.js
+
 ##2019-February-14
 
 * *Theory*
