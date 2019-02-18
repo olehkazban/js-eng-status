@@ -1,5 +1,15 @@
 #Worklogs
 
+##2019-February-18
+
+* *Theory*
+	* Higher-order Functions: https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/chapters/chapter5.html;
+	* The Secret Life of Objects: https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/chapters/chapter6.html;
+
+* *Practise*
+	* Tasks on Eloquentjavascript (chapter 5 - 6). Code here: https://github.com/daniildeli/EloquentJS;
+	* I don't understand what should I do in the last two tasks from chapter 6. Also I would like to know how to simplify the code in life.js from chapter 5, because there are too many loops and identical variables, I think.
+
 ##2019-February-15
 
 * *Theory*
