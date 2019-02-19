@@ -1,5 +1,11 @@
 #Worklogs
 
+##2019-February-19
+
+* *Practise*
+	* String tasks. Code here: https://github.com/daniildeli/JStrainings/tree/master/JS/string;
+	* Tasks from Vadim. Code here: https://github.com/daniildeli/JStrainings/tree/master/JS/tasks
+
 ##2019-February-18
 
 * *Theory*
