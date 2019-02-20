@@ -1,5 +1,10 @@
 #Worklogs
 
+##2019-February-20
+
+* *Practise*
+	* Tasks from Vadim (level 2-3). Code here: https://github.com/daniildeli/JStrainings/tree/master/JS/tasks
+
 ##2019-February-19
 
 * *Practise*
