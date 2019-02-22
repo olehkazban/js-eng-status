@@ -3,6 +3,13 @@
 ##2019-February-21
 
 * *Practise*
+	* Tasks from Vadim (level 2-3). Code here: https://github.com/daniildeli/JStrainings/tree/master/JS/tasks;
+	* Changes in previous ElequentJS tasks according to comments (https://github.com/daniildeli/EloquentJS);
+	* How to optimize code in combos.js? (https://github.com/daniildeli/JStrainings/blob/master/JS/tasks/level-3/a1-combos.js) (Find all possible number combos that sum to a number, Level 3)
+
+##2019-February-21
+
+* *Practise*
 	* Tasks from Vadim (level 2-3). Code here: https://github.com/daniildeli/JStrainings/tree/master/JS/tasks
 
 ##2019-February-20
