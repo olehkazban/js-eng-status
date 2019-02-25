@@ -1,5 +1,12 @@
 #Worklogs
 
+##2019-February-25
+
+* *Practise*
+	* Tasks from Vadim (level 3). Finished Undo-Redo task. Code here: https://github.com/daniildeli/JStrainings/tree/master/JS/tasks
+	* Finished string tasks. Code: https://github.com/daniildeli/JStrainings/tree/master/JS/string
+	* Working on 'Default Arguments' task, initial code here: https://github.com/daniildeli/JStrainings/blob/master/JS/tasks/level-3/a3-arguments.js
+
 ##2019-February-22
 
 * *Practise*
