@@ -1,5 +1,12 @@
 #Worklogs
 
+##2019-February-26
+* *Theory*
+	* Investigation of Dependency Injection in JavaScript;
+
+* *Practise*
+	* Tasks from Vadim (level 3): 'Default Arguments' and 'Dependency Injection' tasks. Code here: https://github.com/daniildeli/JStrainings/tree/master/JS/tasks
+
 ##2019-February-25
 
 * *Practise*
