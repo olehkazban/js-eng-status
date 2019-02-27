@@ -1,5 +1,13 @@
 #Worklogs
 
+##2019-February-27
+* *Theory*
+	* Investigation of Dependency Injection in JavaScript;
+
+* *Practise*
+	* Objects tasks. Code here: https://github.com/daniildeli/JStrainings/tree/master/JS/object
+	* General practice: GetFullAPIPath task - https://github.com/daniildeli/JStrainings/blob/master/JS/general/getfullapi.js
+
 ##2019-February-26
 * *Theory*
 	* Investigation of Dependency Injection in JavaScript;
