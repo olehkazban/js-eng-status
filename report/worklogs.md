@@ -1,11 +1,17 @@
 #Worklogs
 
+##2019-February-28
+
+* *Practise*
+	* General practice: Changes in GetFullAPIPath task - https://github.com/daniildeli/JStrainings/blob/master/JS/general/getfullapi.js
+	* Timers tasks (timer.js and main-timer.js): https://github.com/daniildeli/JStrainings/tree/master/JS/general
+
 ##2019-February-27
 * *Theory*
 	* Investigation of Dependency Injection in JavaScript;
 
 * *Practise*
-	* Objects tasks. Code here: https://github.com/daniildeli/JStrainings/tree/master/JS/object
+	* Object tasks. Code here: https://github.com/daniildeli/JStrainings/tree/master/JS/object
 	* General practice: GetFullAPIPath task - https://github.com/daniildeli/JStrainings/blob/master/JS/general/getfullapi.js
 
 ##2019-February-26
