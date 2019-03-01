@@ -1,5 +1,11 @@
 #Worklogs
 
+##2019-March-01
+
+* *Practise*
+	* General practice: getFullApi, main-timer and singleton tasks  - https://github.com/daniildeli/JStrainings/tree/master/JS/general
+	* JSBasics tasks: https://github.com/daniildeli/JStrainings/tree/master/JS/JSBasics
+
 ##2019-February-28
 
 * *Practise*
