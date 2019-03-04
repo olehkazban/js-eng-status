@@ -7,6 +7,7 @@
 	* Investigation of Jasmine methods http://tfs.finist-soft.ru:8084/WebPlatformDocs/Developer/JSBasicsOfJasmine;
 
 * *Practise*
+	* Set up environment;
 	* Tests for the finished tasks (https://github.com/daniildeli/EloquentJS, https://github.com/daniildeli/JStrainings/tree/master/JS/string);
 
 ##2019-March-01
