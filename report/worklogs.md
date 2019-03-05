@@ -1,5 +1,14 @@
 #Worklogs
 
+##2019-March-05
+
+* *Theory*
+	* Investigation of Karma, Jasmine and Spies in Jasmine;
+	* Lessons about Jasmine (https://www.youtube.com/watch?v=gtCLTP2HYEU&list=PLY4rE9dstrJwM36wcLi4we_JfhlhgYbcB&index=8)
+
+* *Practise*
+	* Tests for the previous tasks (https://github.com/daniildeli/JStrainings/tree/master/JS/string, https://github.com/daniildeli/JStrainings/tree/master/JS/tasks);
+
 ##2019-March-04
 
 * *Theory*
