@@ -1,5 +1,13 @@
 #Worklogs
 
+##2019-March-06
+
+* *Theory*
+	* Investigation of promises https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise, https://habr.com/ru/company/nixsolutions/blog/323066/, https://habr.com/ru/company/mailru/blog/269465/;
+
+* *Practise*
+	* Promises test scripts: https://github.com/daniildeli/JStrainings/tree/master/JS/promise;
+
 ##2019-March-05
 
 * *Theory*
