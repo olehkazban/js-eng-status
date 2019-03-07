@@ -1,5 +1,15 @@
 #Worklogs
 
+##2019-March-07
+
+* *Theory*
+	* Investigation of promises;
+	* Start investigation of XMLHttpRequest (https://developer.mozilla.org/ru/docs/Web/API/XMLHttpRequest, https://developer.mozilla.org/ru/docs/XMLHttpRequest)
+
+* *Practise*
+	* Promises test scripts: https://github.com/daniildeli/JStrainings/tree/master/JS/promise;
+	* Fixed previous task (https://github.com/daniildeli/JStrainings/blob/master/JS/tasks/level-1/a3-isogram.js)
+
 ##2019-March-06
 
 * *Theory*
