@@ -1,5 +1,14 @@
 #Worklogs
 
+##2019-March-11
+
+* *Theory*
+	* Investigation of XMLHttpRequest and AJAX;
+
+* *Practise*
+	* XMLHttpRequest test scripts https://github.com/daniildeli/JStrainings/tree/master/JS/XMLHttpRequest;
+	* Fetching users from GitHub https://github.com/daniildeli/JStrainings/tree/master/JS/XMLHttpRequest/gitHub-users
+
 ##2019-March-07
 
 * *Theory*
