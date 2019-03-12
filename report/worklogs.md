@@ -1,5 +1,15 @@
 #Worklogs
 
+##2019-March-12
+
+* *Theory*
+	* Investigation of XMLHttpRequest, try-catch, exceptions and modules in JS;
+
+* *Practise*
+	* XMLHttpRequest test scripts (trying to send form data) https://github.com/daniildeli/JStrainings/tree/master/JS/XMLHttpRequest;
+	* Added try-catch to the string tasks https://github.com/daniildeli/JStrainings/tree/master/JS/string;
+	* Trying to re-write string scripts with modules;
+
 ##2019-March-11
 
 * *Theory*
@@ -144,9 +154,9 @@
 
 * *Practise*
 	* Working with data types, conditionals and loops. (https://github.com/daniildeli/JStrainings/tree/master/JS/type_condition_loops)
-	
+
 *  There are a few moments that seems a little weird for me:
-	* Type conversion: 
+	* Type conversion:
 		* {} + [] + {} + [1] ==> "[object Object][object Object]1";
 		* ! + [] + [] + ![] ==> "truefalse";
 		* {} + [] ==> "[object Object]";	 
@@ -157,7 +167,7 @@
 		  b: 2,
 		  c: 3
 		}
-		
+
 		for (let i of obj){
 		  console.log(i);
 		}
@@ -204,4 +214,3 @@
 * *Miscellaneous*
 	* Sinon [FakeXMLHttpRequest](http://sinonjs.org/docs/#FakeXMLHttpRequest)
 	* Sinon [fakeServer](http://sinonjs.org/docs/#fakeServer)
-
