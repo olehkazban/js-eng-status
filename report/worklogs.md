@@ -1,5 +1,17 @@
 #Worklogs
 
+##2019-March-13
+
+* *Theory*
+	* Investigation of modules in JS;
+
+* *Practise*
+	* Working with modules in test scripts:
+		* Babel: https://github.com/daniildeli/JStrainings/tree/master/JS/module/babel;
+		* CommonJS: https://github.com/daniildeli/JStrainings/tree/master/JS/module/commonJS;
+		* RequireJS: https://github.com/daniildeli/JStrainings/tree/master/JS/module/requireJS;
+		* ES6: https://github.com/daniildeli/JStrainings/tree/master/JS/module/es6
+
 ##2019-March-12
 
 * *Theory*
