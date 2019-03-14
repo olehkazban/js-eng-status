@@ -1,5 +1,14 @@
 #Worklogs
 
+##2019-March-14
+
+* *Theory*
+	* Investigation of working with DOM in JS;
+
+* *Practise*
+	* Working on test task (Site editor): https://github.com/daniildeli/JStrainings/tree/master/JS/DOM
+		
+
 ##2019-March-13
 
 * *Theory*
