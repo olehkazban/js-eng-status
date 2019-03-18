@@ -1,5 +1,10 @@
 #Worklogs
 
+##2019-March-18
+
+* *Practise*
+	* Working on test task (Site editor): https://github.com/daniildeli/JStrainings/tree/master/JS/DOM. Corrections and improvements;
+
 ##2019-March-15
 
 * *Practise*
