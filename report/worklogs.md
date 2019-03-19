@@ -1,5 +1,11 @@
 #Worklogs
 
+##2019-March-19
+
+* *Practise*
+	* Setiing up fake web API (jsonplaceholder.typicode.com);
+	* Working on test task (Form): https://github.com/daniildeli/testform. Added initial code with XMLHttpRequest/Promises and fetch solutions;
+
 ##2019-March-18
 
 * *Practise*
@@ -16,8 +22,7 @@
 	* Investigation of working with DOM in JS;
 
 * *Practise*
-	* Working on test task (Site editor): https://github.com/daniildeli/JStrainings/tree/master/JS/DOM
-		
+	* Working on test task (Site editor): https://github.com/daniildeli/JStrainings/tree/master/JS/DOM		
 
 ##2019-March-13
 
