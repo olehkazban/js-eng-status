@@ -1,5 +1,10 @@
 #Worklogs
 
+##2019-March-20
+
+* *Practise*
+	* Working on test task (Form): https://github.com/daniildeli/testform. Added main functionality;
+
 ##2019-March-19
 
 * *Practise*
