@@ -1,5 +1,13 @@
 #Worklogs
 
+##2019-March-21
+
+* *Practise*
+	* First look at TypeScript;
+	* Basic information and documentation https://www.typescriptlang.org/;
+	* Set up dev environment;
+	* Initial TS code 
+
 ##2019-March-20
 
 * *Practise*
