@@ -6,7 +6,7 @@
 	* First look at TypeScript;
 	* Basic information and documentation https://www.typescriptlang.org/;
 	* Set up dev environment;
-	* Initial TS code 
+	* Initial TS code https://github.com/daniildeli/typescript;
 
 ##2019-March-20
 
