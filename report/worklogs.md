@@ -1,5 +1,14 @@
 #Worklogs
 
+##2019-March-22
+
+* *Theory*
+	* Investigation of TS types, classes, interface;
+
+* *Practise*
+	* Basics TS https://github.com/daniildeli/typescript;
+	* Started to re-writing previous tasks with TypeScript https://github.com/daniildeli/typescript/tree/master/StringTasks; 
+
 ##2019-March-21
 
 * *Practise*
