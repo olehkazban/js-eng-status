@@ -1,5 +1,13 @@
 #Worklogs
 
+##2019-March-25
+
+* *Theory*
+	* Investigation of TS: https://basarat.gitbooks.io/typescript/;
+
+* *Practise*
+	* Re-writing previous tasks with TypeScript https://github.com/daniildeli/typescript/tree/master/StringTasks; 
+
 ##2019-March-22
 
 * *Theory*
