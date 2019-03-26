@@ -1,5 +1,10 @@
 #Worklogs
 
+##2019-March-26
+
+* *Practise*
+	* Working on Animal hierarchy task https://github.com/daniildeli/typescript/tree/master/AnimalsHierarchy; 
+
 ##2019-March-25
 
 * *Theory*
