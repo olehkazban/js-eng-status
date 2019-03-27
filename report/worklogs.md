@@ -1,5 +1,18 @@
 #Worklogs
 
+##2019-March-27
+
+* *Theory*
+	* Investigation of TS: 
+		* https://github.com/DanWahlin/TypeScriptDemos;
+		* https://github.com/dzharii/awesome-typescript;
+		* https://github.com/labs42io/clean-code-typescript;
+		* https://github.com/bitjson/typescript-starter;
+		* https://dzone.com/articles/typescript-practical-introduction-part-1;		
+
+* *Practise*
+	* Changes in Animal hierarchy task https://github.com/daniildeli/typescript/tree/master/AnimalsHierarchy; 
+
 ##2019-March-26
 
 * *Practise*
