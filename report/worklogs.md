@@ -1,5 +1,13 @@
 #Worklogs
 
+##2019-March-28
+
+* *Theory*
+	* Started investigation of Angular https://angular.io/guide;		
+
+* *Practise*
+	* Working on treetask with TS https://github.com/daniildeli/typescript/tree/master/treetask;
+
 ##2019-March-27
 
 * *Theory*
