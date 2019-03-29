@@ -1,5 +1,16 @@
 #Worklogs
 
+##2019-March-29
+
+* *Theory*
+	* Investigation of Angular https://angular.io/guide;
+	* Tour of Heroes (Angular tutorial): https://angular.io/tutorial/toh-pt0		
+
+* *Practise*
+	* Changed treetask https://github.com/daniildeli/typescript/tree/master/treetask;
+	* Initial first Angular projects https://github.com/daniildeli/angular
+	* Working on Tour of heroes;
+
 ##2019-March-28
 
 * *Theory*
