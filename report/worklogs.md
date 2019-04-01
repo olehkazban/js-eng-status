@@ -1,5 +1,10 @@
 #Worklogs
 
+##2019-April-01		
+
+* *Practise*
+	* Working on TODO App (https://github.com/daniildeli/angular/tree/master/TODO)
+
 ##2019-March-29
 
 * *Theory*
