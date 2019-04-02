@@ -1,5 +1,12 @@
 #Worklogs
 
+##2019-April-02		
+
+* *Practise*
+	* Working on TODO App (https://github.com/daniildeli/angular/tree/master/TODO):
+		* Re-build items generation with @Input
+		* Initialized popup
+
 ##2019-April-01		
 
 * *Practise*
