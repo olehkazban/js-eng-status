@@ -1,5 +1,13 @@
 #Worklogs
 
+##2019-April-03		
+
+* *Practise*
+	* Working on TODO App (https://github.com/daniildeli/angular/tree/master/TODO):
+		* Small restructuration;
+		* Created pop-up form;
+		* Added main functionality for creating new todo-items;
+
 ##2019-April-02		
 
 * *Practise*
