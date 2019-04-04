@@ -1,5 +1,12 @@
 #Worklogs
 
+##2019-April-04		
+
+* *Practise*
+	* Working on TODO App (https://github.com/daniildeli/angular/tree/master/TODO):
+		* Added functionality for creating and deleting todo-items;
+		* Initial functionality for edit items;
+
 ##2019-April-03		
 
 * *Practise*
