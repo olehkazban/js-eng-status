@@ -1,5 +1,11 @@
 #Worklogs
 
+##2019-April-05
+
+* *Practise*
+	* Working on TODO App (https://github.com/daniildeli/angular/tree/master/TODO):
+		* Added functionality for creating, editing, deleting and saving items to local storage;
+
 ##2019-April-04		
 
 * *Practise*
