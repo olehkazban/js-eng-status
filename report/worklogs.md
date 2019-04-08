@@ -1,5 +1,13 @@
 #Worklogs
 
+##2019-April-08
+
+* *Practise*
+	* Working on TODO App (https://github.com/daniildeli/angular/tree/master/TODO):
+		* Updated saving to local storage process
+		* Added functionality for archive items;
+		* Small restructuration;
+
 ##2019-April-05
 
 * *Practise*
