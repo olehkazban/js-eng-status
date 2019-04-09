@@ -1,5 +1,11 @@
 #Worklogs
 
+##2019-April-09
+
+* *Practise*
+	* Finished TODO App (https://github.com/daniildeli/angular/tree/master/TODO);
+	* Started to work on Course App (https://github.com/daniildeli/angular/tree/master/Course)
+
 ##2019-April-08
 
 * *Practise*
