@@ -1,5 +1,11 @@
 #Worklogs
 
+##2019-April-10
+
+* *Practise*
+	* Working on Course App (https://github.com/daniildeli/angular/tree/master/Course):
+		* Initial functionality for login, sugnup and routing
+
 ##2019-April-09
 
 * *Practise*
