@@ -1,5 +1,11 @@
 #Worklogs
 
+##2019-April-12
+
+* *Practise*
+	* Working on Course App (https://github.com/daniildeli/angular/tree/master/Course):
+		* Initial functionality for breadcrumbds and student courses / course students
+
 ##2019-April-11
 
 * *Practise*
