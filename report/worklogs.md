@@ -1,5 +1,11 @@
 #Worklogs
 
+##2019-April-15
+
+* *Practise*
+	* Working on Course App (https://github.com/daniildeli/angular/tree/master/Course):
+		* Fixed breadcrumbs and problem with circular dependency
+
 ##2019-April-12
 
 * *Practise*
