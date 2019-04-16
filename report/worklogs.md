@@ -1,5 +1,10 @@
 #Worklogs
 
+##2019-April-16
+
+* *Practise*
+	* Initial code for EventManager App (https://github.com/daniildeli/angular/tree/master/EventManager)
+
 ##2019-April-15
 
 * *Practise*
