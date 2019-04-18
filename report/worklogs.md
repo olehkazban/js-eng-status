@@ -1,5 +1,11 @@
 #Worklogs
 
+##2019-April-18
+
+* *Practise*
+	* Working on EventManager App (https://github.com/daniildeli/angular/tree/master/EventManager):
+		* Added another solution for building participants list (participants-custom component) with custom sorting
+
 ##2019-April-17
 
 * *Practise*
