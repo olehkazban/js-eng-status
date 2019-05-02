@@ -1,6 +1,6 @@
 #Worklogs
 
-##2019-April-30
+##2019-May-02
 
 * *Practise*
 	* Working on EventManager App (https://github.com/daniildeli/angular/tree/master/EventManager):
