@@ -4,6 +4,12 @@
 
 * *Practise*
 	* Working on EventManager App (https://github.com/daniildeli/angular/tree/master/EventManager):
+		* Participant page improvements
+
+##2019-April-30
+
+* *Practise*
+	* Working on EventManager App (https://github.com/daniildeli/angular/tree/master/EventManager):
 		* Added GL header
 		* Fixed particpants sorting
 		* Added particpant interview details
