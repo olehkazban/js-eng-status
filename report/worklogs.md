@@ -1,5 +1,11 @@
 #Worklogs
 
+##2019-May-03
+
+* *Practise*
+	* Working on EventManager App (https://github.com/daniildeli/angular/tree/master/EventManager):
+		* Rebuild and improvements for the participant page
+
 ##2019-May-02
 
 * *Practise*
