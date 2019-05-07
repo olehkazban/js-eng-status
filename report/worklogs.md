@@ -1,5 +1,12 @@
 #Worklogs
 
+##2019-May-07
+
+* *Practise*
+	* Working on EventManager App (https://github.com/daniildeli/angular/tree/master/EventManager):
+		* Changed default table;
+		* Added aside and new event page;
+
 ##2019-May-06
 
 * *Practise*
