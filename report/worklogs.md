@@ -1,5 +1,12 @@
 #Worklogs
 
+##2019-May-08
+
+* *Practise*
+	* Working on EventManager App (https://github.com/daniildeli/angular/tree/master/EventManager):
+		* Updated new event page;
+		* Added link with query parameters for the participants page
+
 ##2019-May-07
 
 * *Practise*
