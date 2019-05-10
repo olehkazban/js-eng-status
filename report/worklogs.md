@@ -1,5 +1,12 @@
 #Worklogs
 
+##2019-May-10
+
+* *Practise*
+	* Working on EventManager App (https://github.com/daniildeli/angular/tree/master/EventManager):
+		* Added datepickers for new event creation form
+		* Working on lazy load
+
 ##2019-May-08
 
 * *Practise*
